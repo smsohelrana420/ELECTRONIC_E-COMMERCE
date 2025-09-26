@@ -1,0 +1,9 @@
+/* ========= tailwind css ============ */
+@import "tailwindcss";
+
+
+@theme {
+  --color-themeyellow: #f5ed0d;
+  --color-themepurple: #502ec3;
+  
+}
